@@ -30,7 +30,7 @@ const int thing_time = 5; // Cada cuántos segundos se envía el dato a Thingspe
 #define SENSOR_PIN A1    // Pin de conexionado del sensor 
 Smoothed <float> mySensor; // Objeto de tipo Smoothed donde se guarda el nivel sonoro suavizado
 const int sanples = 100; // Cuántas muestras se utilizan en el suavizado
-const int dBmin = 5; // Presión sonora mínima: equivale al verde puro en el semáforo
+const int dBmin = 50; // Presión sonora mínima: equivale al verde puro en el semáforo
 const int dBmax = 80; // Presión sonora máxima: equivale al rojo puro en el semáforo
 const float vc = 20; // Variable para transformar la tensión obtenida por el sensor analógico en presión sonora
 const float vm = 40; // Variable para transformar la tensión obtenida por el sensor analógico en presión sonora
