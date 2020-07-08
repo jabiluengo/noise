@@ -1,4 +1,3 @@
-#include "arduino_secrets.h"
 /*
 Noise: Sistema de alerta y monitorización del ruido en un aula
 Captura el nivel de presión sonora mediante un sensor de sonido analógico y lo muestra visualmente con una tira de leds con los colores de un semáforo.
@@ -8,6 +7,7 @@ Creado por Jabi Luengo
 */
  
 // Librerías utilizadas
+#include "arduino_secrets.h"
 #include <TimeAlarms.h>
 #include "math.h"
 #include <Smoothed.h> 	// Created by Matthew Fryer
