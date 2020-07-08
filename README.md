@@ -14,5 +14,6 @@ Qué necesito:
 - Conectore macho y hembra tipo barrel
 - Programa de Arduino (ver Arduino)
 - Cuenta en Thingspeak
-Fotos del montaje en la carpeta correspondiente.
-Vídeo del funcionamiento.
+## Ayuda
+- Fotos del montaje en la carpeta correspondiente.
+- [Vídeo del funcionamiento](https://www.youtube.com/watch?v=MzmO7LEzczY)
