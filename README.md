@@ -16,4 +16,4 @@ Qué necesito:
 - Cuenta en Thingspeak
 ## Ayuda
 - Fotos del montaje en la carpeta correspondiente.
-- [Vídeo del funcionamiento](https://www.youtube.com/watch?v=MzmO7LEzczY)
+- [Vídeo del funcionamiento](https://www.youtube.com/watch?v=zTPq-qi6xA0)
