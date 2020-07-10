@@ -5,7 +5,7 @@ La idea es diseñar un sistema que alerta de los niveles de ruido a los propios 
 El dispositivo mediante un sistema visual (semáforo) alerta del nivel de ruido y además envía los valores en tiempo real a Thingspeak para su monitorización y posterior tratamiento.
 Qué necesito:
 - [Arduino Uno Wifi rev2](https://store.arduino.cc/arduino-uno-wifi-rev2)
-- [Grove Sound Sensor](https://www.seeedstudio.com/Grove-Sound-Sensor-Based-on-LM386-amplifier-Arduino-Compatible.html)
+- [Sparkfun Sound detector](https://www.sparkfun.com/products/12642)
 - [Tira de LEDs RGB WS2811](https://www.amazon.es/gp/product/B01CDTEFAQ)
 - [Grove Shield](https://www.seeedstudio.com/Base-Shield-V2.html)
 - Alimentador de entre 7 y 12 V con conector tipo barrel
